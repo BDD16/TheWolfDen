@@ -95,15 +95,6 @@ Citizens must demand legislation that:
 ### 🕸️ 4. **Decentralize and Democratize the Web**
 Support technologies that enable **peer-to-peer** networks, encrypted communication, and user-controlled identity systems (e.g. DID, Matrix, IPFS).
 
----
-
-## 📚 Works Cited
-
-1. [FBI Cyber Most Wanted – Chinese PLA Members](https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute)  
-2. [The Daily Signal – Huawei’s Role in the Chinese Espionage Enterprise](https://www.dailysignal.com/2020/02/19/huaweis-role-in-the-chinese-espionage-enterprise/)  
-3. [Krebs on Security – Wu Zhiyong Tag](https://krebsonsecurity.com/tag/wu-zhiyong/)
-
-
 ### 🤝 5. **Forge International Digital Alliances**
 Democratic nations must form cooperative cyber treaties and promote interoperability of secure technologies to counterbalance centralized, state-aligned architectures.
 
@@ -111,3 +102,11 @@ Democratic nations must form cooperative cyber treaties and promote interoperabi
 
 **Liberty cannot survive in the shadows of surveillance.**  
 It must be **re-engineered into the fabric of our digital systems**—not by accident, but by deliberate, shared purpose.
+
+---
+
+## 📚 Works Cited
+
+1. [FBI Cyber Most Wanted – Chinese PLA Members](https://www.fbi.gov/wanted/cyber/chinese-pla-members-54th-research-institute)  
+2. [The Daily Signal – Huawei’s Role in the Chinese Espionage Enterprise](https://www.dailysignal.com/2020/02/19/huaweis-role-in-the-chinese-espionage-enterprise/)  
+3. [Krebs on Security – Wu Zhiyong Tag](https://krebsonsecurity.com/tag/wu-zhiyong/)
