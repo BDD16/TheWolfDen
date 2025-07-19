@@ -11,6 +11,8 @@ Detects and reacts to target crashes
 
 It is simple to extend and supports dynamic module loading. Let's walk through how everything fits together.   
 
+The repository for the code can be found here: https://github.com/DBA1337TECH/TwilightFangInstill
+
 ## High Level Architecture
 
 ![rpp structure](./rpp.png)   
