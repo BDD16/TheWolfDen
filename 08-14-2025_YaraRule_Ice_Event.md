@@ -10,7 +10,7 @@
 
 **Detection Event — AUGUST 9, 2025**
 
-📰 **Headline:**  
+EXTRA EXTRA! **Headline:**  
 **ICEEVENT Backdoor Busted by New YARA Rule Scoring 95/100**
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠 Key Detection Features
+### Key Detection Features
 - **Rare Misspellings:** Matches `"Servcie Error"` variants — low false positive gold.
 - **Opcode Fingerprints:** MSVC x64 thunk/prologue + CreateProcessW flow.
 - **API/DLL Anchors:** `CreatePipe`, `PeekNamedPipe`, `SetHandleInformation` alongside `KERNEL32.dll`, `ADVAPI32.dll`, `WS2_32.dll`.
@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 Field Results
+### Field Results
 **Dataset:** 5,255 files scanned  
 - **Matches:** 3  
 - **False Positives:** 0  
@@ -45,11 +45,11 @@
 
 ---
 
-### 💡 Why It Matters
-With **zero false positives**, this YARA rule is ready for prime-time IR work.  
-Its balance of **rare string indicators**, **structural code checks**, and **import verification** makes it a high-confidence weapon against evolving ICEEVENT loader variants.
+### Why It Matters
+With **zero false positives**, this YARA rule is ready for prime time IR work.  
+Its balance of **rare string indicators**, **structural code checks**, and **import verification** makes it a decent confidence detection method against evolving ICEEVENT loader variants.
 
-**END OF REPORT — THE WOLF DEN BLOG**
+**END OF TRANSMISSION — THE WOLF DEN BLOG**
 
 
 ```yara
@@ -90,7 +90,7 @@ rule ICEEVENT_Backdoor_opcode_plus_rare_strings_v2
         filesize < 15MB and
         // Require at least one rare 'Servcie' string
         any of ( $err_inv, $err_len, $msg_end ) and
-        // Require loader-like code signature
+        // Require loader like code signature
         (
             any of ( $pat_proc, $pat_svc ) or
             ( $pat_thunk and $pat_prolg )
