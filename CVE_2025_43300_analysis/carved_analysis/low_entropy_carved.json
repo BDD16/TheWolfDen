@@ -1,0 +1,37 @@
+[
+  {
+    "file": "/mnt/data/carved_analysis/low_entropy_segment_0_89088_4096.bin",
+    "offset": 89088,
+    "size": 4096,
+    "sha256": "a3089172f869d133c0d0e733c564e973f95206203343be79fbe6f7335c405f29",
+    "entropy": 5.54644103158923
+  },
+  {
+    "file": "/mnt/data/carved_analysis/low_entropy_segment_1_90112_4096.bin",
+    "offset": 90112,
+    "size": 4096,
+    "sha256": "d25ac7138b6e6871aadc5d7d1802c03c130eb066ede34ede9681f1320268c5a8",
+    "entropy": 5.734321389727875
+  },
+  {
+    "file": "/mnt/data/carved_analysis/low_entropy_segment_2_91136_4096.bin",
+    "offset": 91136,
+    "size": 4096,
+    "sha256": "078ebb1d3d37e74fd911e0226a40bd38219dc66693365cd8cf2112b666d4d11a",
+    "entropy": 6.078771477810898
+  },
+  {
+    "file": "/mnt/data/carved_analysis/low_entropy_segment_3_88064_4096.bin",
+    "offset": 88064,
+    "size": 4096,
+    "sha256": "569ccb88f9cd42d904099dc101de17180320bed7e1ffe0a968ba36a5c6001964",
+    "entropy": 6.483461372836519
+  },
+  {
+    "file": "/mnt/data/carved_analysis/low_entropy_segment_4_92160_4096.bin",
+    "offset": 92160,
+    "size": 4096,
+    "sha256": "145987ca4c0157e38a9303a2a0d275a31b837a087cf7ce02bee7ddb22e7fe2d3",
+    "entropy": 6.756587097164738
+  }
+]

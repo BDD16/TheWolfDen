@@ -1,0 +1,20 @@
+Analysis report for: /mnt/data/IMG_0118.JPG
+Summary info:
+  input: /mnt/data/IMG_0118.JPG
+  size: 117260
+  sha256: b951ec03a58100ff2a8781191312af1d164646f67b7ea42f0dbc76ea15b904a9
+  soi_index: 0
+  eoi_first_index: 10267
+  eoi_last_index: 117258
+  trailer_size: 106991
+  trailer_sha256: 966d550448d636fa774927965bf45c03af5d48d56c50a68e142aa1d2da77e3c3
+  trailer_entropy: 7.933138608764928
+Found magics in trailer: [('pe', '4d5a', 18913)]
+Carved artifacts:
+  ('/mnt/data/carved_analysis/embedded_pe_18913_1349.bin', 'pe', 18913, 1349, '6f06487e249048c53cedddbc425b5901bc814e17fc5ba4585c7532aa25754ea9')
+  ('/mnt/data/carved_analysis/embedded_pe_20262_86729.bin', 'pe', 20262, 86729, 'e940b890ad354239432997c7f9facf65f27e537cba20d32cc879bfb7ee280c16')
+External tool results (truncated):
+  [file_input] rc=0 stdout_head='/mnt/data/IMG_0118.JPG: JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=5, xresolution=74, yresolution stderr_head=''
+  [file_payload] rc=0 stdout_head='/mnt/data/carved_analysis/payload.bin: data\n' stderr_head=''
+  [objdump_obj] rc=0 stdout_head='\n/mnt/data/carved_analysis/payload_as_object.elf:     file format elf64-x86-64\n\n\nDisassembly of section .payload_data:\n\n0000000000000000 <.payload_data>:\n       0:\t00 00                \tadd  stderr_head=''
+  [objdump_raw_x86_64] rc=0 stdout_head='\n/mnt/data/carved_analysis/payload.bin:     file format binary\n\n\nDisassembly of section .data:\n\n0000000000400000 <.data>:\n  400000:\t00 00                \tadd    %al,(%rax)\n  400002:\tff     stderr_head=''

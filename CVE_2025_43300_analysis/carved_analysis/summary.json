@@ -1,0 +1,11 @@
+{
+  "input": "/mnt/data/IMG_0118.JPG",
+  "size": 117260,
+  "sha256": "b951ec03a58100ff2a8781191312af1d164646f67b7ea42f0dbc76ea15b904a9",
+  "soi_index": 0,
+  "eoi_first_index": 10267,
+  "eoi_last_index": 117258,
+  "trailer_size": 106991,
+  "trailer_sha256": "966d550448d636fa774927965bf45c03af5d48d56c50a68e142aa1d2da77e3c3",
+  "trailer_entropy": 7.933138608764928
+}
