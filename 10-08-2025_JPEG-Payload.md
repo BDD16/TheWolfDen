@@ -1,4 +1,4 @@
-# Payload Analysis Report
+# Payload Preliminary Analysis (Still ongoing)
 
 This Blog post was written after generating artifacts from a suspicious image sent suspected to using CVE-2025-43300, a script was also made to extract elf, and potential low entropy sections for more dissasmbly from the provided artifacts: a disassembly dump of the ELF container’s `.payload_data` section and a strings dump of the carved payload.
 
