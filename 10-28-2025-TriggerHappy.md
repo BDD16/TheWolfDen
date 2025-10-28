@@ -5,7 +5,10 @@
 
 ---
 
+# Preface
+although this stage 2 looos unique. it may be very well the iteration of the Line Runner and Line Dancer with respect to Software Design Patterns of Chinese Sponsored APT groups, however what I am discussing is that these could be the MacOS and Windows 10 and Windows 11 variants. 
 
+[Line Runner](https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/line/ncsc-tip-line-runner.pdf)
 
 ## Introduction: When CSVs Hide More Than Data
 
