@@ -8,6 +8,11 @@
 
 # INTRODUCTION
 
+This blog post has real implementations that are referenced below:
+
+    https://github.com/DBA1337TECH/OblivionEdge
+    https://github.com/BDD16/Signal-TLS-Proxy
+
 ---
 
 The modern internet is a paradox simultaneously the most liberating and the most 
