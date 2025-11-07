@@ -59,7 +59,7 @@ These weren’t abstract samples. These were blueprints for attacks that affect 
 
 ## ICEEVENT Yara Rule Detection
 
-```json
+```txt
 rule ICEEVENT_Backdoor_opcode_plus_rare_strings_v2
 {
     meta:
@@ -121,7 +121,7 @@ rule ICEEVENT_Backdoor_opcode_plus_rare_strings_v2
 
 ## Cronos Crypto NET Loader
 
-``` json
+```txt
 rule Cronos_Crypter_NET_Loader
 {
     meta:
@@ -188,7 +188,7 @@ rule Cronos_Crypter_NET_Loader
 
 ## DARKWATCHMAN Dropper
 
-```json
+```txt
 import "pe"
 
 rule MAL_DarkWatchman_RAR_SFX_JS_Dropper_A
@@ -259,7 +259,7 @@ rule SUSP_DarkWatchman_like_SFX_JS
 
 ## NIGHTHAWK
 
-```json
+```txt
 import "pe"
 
 rule NIGHTHAWK_DLL_Implant_v1_2_fallback
@@ -336,7 +336,7 @@ rule NIGHTHAWK_DLL_Implant_v1_2_fallback
 
 ## 7ev3n Ransomware Honest
 
-```json
+```txt
 rule seven_Ransomware_HONEST
 {
     meta:
@@ -407,7 +407,7 @@ rule seven_Ransomware_HONEST
 
 ## slnRAT Controller Variant
 
-```json
+```txt
 rule Cronos_Crypter_NET_Loader
 {
     meta:
@@ -475,7 +475,7 @@ rule Cronos_Crypter_NET_Loader
 
 ## White Rabbit dot NET
 
-```json
+```txt
 import "pe"
 
 rule WhiteRabbit_DotNet_DLL_sections_strict_v3
@@ -549,7 +549,7 @@ rule WhiteRabbit_DotNet_DLL_sections_strict_v3
 
 # Zbot Zeus Wininet PStore PFX v1
 
-```json
+```txt
 rule Zbot_Zeus_Wininet_PStore_PFX_v1
 {
     meta:
