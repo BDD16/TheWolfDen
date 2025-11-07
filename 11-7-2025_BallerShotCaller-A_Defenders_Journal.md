@@ -706,6 +706,14 @@ And we win together by sharing what we learn.
 
 > *“To defend, we must first understand. And once we understand, we must act.”*
 
+## Proof I am BallerShotCaller
+
+![proof 1](./DEFCON_33_BallerShotCaller_1.jpg)
+
+![proof 2](./DEFCON33_BallerShotCaller_2.jpg)
+
+![proof 3](./DEFCON33_BallerShotCaller_3.jpg)
+
 ---
 
 **© Blake De Garza 2025 (BallerShotCaller: A Defenders Journal in Vegas)**
