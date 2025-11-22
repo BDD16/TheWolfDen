@@ -11,7 +11,7 @@
 This blog post has real implementations that are referenced below:
 
     https://github.com/DBA1337TECH/OblivionEdge
-    https://github.com/BDD16/Signal-TLS-Proxy
+    https://github.com/DBA1337TECH/littleguyVPN
 
 ---
 
